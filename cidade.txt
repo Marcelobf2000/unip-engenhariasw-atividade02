@@ -3,3 +3,8 @@ Sertãozinho
 São Paulo
 Pradópolis
 Rio de Janeiro
+Ribeirão Preto 2.0
+Sertãozinho 2.0
+São Paulo 2.0
+Pradópolis 2.0
+Rio de Janeiro 2.0
